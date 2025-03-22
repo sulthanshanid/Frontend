@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ontheether/blindai/blind_ai/BuildConfig.java
+ com.ontheether.blindai.blind_ai.BuildConfig
